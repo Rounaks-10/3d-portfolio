@@ -119,7 +119,7 @@ const techStackIcons = [
   },
   {
     name: "Cpp Developer",
-    modelPath: "/models/cpp+logo+3d+model.glb",
+    modelPath: "/models/cpp.glb",
     scale: 5,
     rotation: [10, 5, 10],
   },
@@ -143,13 +143,13 @@ const techStackIcons = [
   },
   {
     name: "HTML",
-    modelPath: "/models/html.glb",
+    modelPath: "/models/html1.glb",
     scale: 5,
     rotation: [0, 5, 0],
   },
   {
     name: "CSS",
-    modelPath: "/models/CSS.glb",
+    modelPath: "/models/css1.glb",
     scale: 5,
     rotation: [0, 5, 0],
   },
@@ -161,13 +161,13 @@ const techStackIcons = [
   },
   {
     name: "Express",
-    modelPath: "/models/express.glb",
+    modelPath: "/models/express1.glb",
     scale: 5,
     rotation: [0, 5, 0],
   },
   {
     name: "Linux Enthusiastic",
-    modelPath: "/models/Linux.glb",
+    modelPath: "/models/linux1.glb",
     scale: 5,
     rotation: [0, 5, 0],
   },
@@ -176,7 +176,7 @@ const techStackIcons = [
 const expCards = [
   {
     review: "Completed SSC 10th Scored 87%",
-    imgPath: "/images/Grade.png",
+    
     logoPath: "/images/S_Logo.png",
     title: "S.T Xavier's High School",
     date: "May 2021 - Passout(Completed)",
@@ -188,7 +188,7 @@ const expCards = [
   },
   {
     review: "Completed HSC 12th Scored 89.17% | MH-CET Score : 99.17% | JEE Main Score : 94.87% | Standout First in College for securing highest marks/score.",
-    imgPath: "/images/Grade.png",
+    
     logoPath: "/images/C1_Logo.png",
     title: "Vivekanand College, Kolhapur",
     date: "May 2023 - Passout(Completed)",
@@ -200,7 +200,7 @@ const expCards = [
   },
   {
     review: "Current SGPA : 9.14/10 ",
-    imgPath: "/images/Grade.png",
+    
     logoPath: "/images/C_Logo.png",
     title: "Walchand College of Engineering,Sangli",
     date: "May-2027 Present",

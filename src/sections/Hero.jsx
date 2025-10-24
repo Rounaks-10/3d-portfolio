@@ -47,8 +47,8 @@ const Hero = () => {
             </h1>
             <h1>to provide</h1>
             <h1>quality solutions</h1>
-            <p className="text-white-50 md:text-xl relative z-10 pointer-events-none">Hi, I am Rounak Sachin Sultane, Full Stack Web Developer</p>
-            <p className="text-white-50 md:text-xl relative z-10 pointer-events-none">"Beyound Syntax - Where Logic meets creativity"</p>
+            <p className="text-white-50 text-sm sm:text-base lg:text-xl relative z-10 pointer-events-none">Hi, I am Rounak Sachin Sultane, Full Stack Web Developer</p>
+            <p className="text-white-50 text-sm sm:text-base lg:text-xl relative z-10 pointer-events-none">"Beyound Syntax - Where Logic meets creativity"</p>
             
           </div>
          </div>
