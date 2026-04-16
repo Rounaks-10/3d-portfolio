@@ -60,7 +60,7 @@ const Hero = () => {
           </div> */}
         {/* </figure> */}
         
-        <img  src='images/Me.jpg' alt='Me' className="w-full max-w-sm rounded-lg object-cover"></img>
+        <img  src='images/Me1.png' alt='Me' className="w-full max-w-sm rounded-lg object-cover"></img>
         
         </div>
       </div>

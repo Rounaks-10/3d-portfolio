@@ -16,16 +16,12 @@ const navLinks = [
     link: "#skills",
   },
   {
-    name: "Testimonials",
-    link: "#testimonials",
+    name: "Certifications",
+    link: "#certifications",
   },
 ];
 
 const words = [
-  { text: "Ideas", imgPath: "/images/ideas.svg" },
-  { text: "Concepts", imgPath: "/images/concepts.svg" },
-  { text: "Designs", imgPath: "/images/designs.svg" },
-  { text: "Code", imgPath: "/images/code.svg" },
   { text: "Ideas", imgPath: "/images/ideas.svg" },
   { text: "Concepts", imgPath: "/images/concepts.svg" },
   { text: "Designs", imgPath: "/images/designs.svg" },
@@ -89,24 +85,24 @@ const abilities = [
 
 const techStackImgs = [
   {
-    name: "React Developer",
-    imgPath: "/images/logos/react.png",
+    name: "HTML",
+    imgPath: "/images/logos/html.webp",
   },
   {
-    name: "Python Developer",
-    imgPath: "/images/logos/python.svg",
+    name: "CSS",
+    imgPath: "/images/logos/css.jpg",
   },
   {
-    name: "Backend Developer",
-    imgPath: "/images/logos/node.png",
+    name: "MongoDB",
+    imgPath: "/images/logos/mgdb.png",
   },
   {
-    name: "Interactive Developer",
-    imgPath: "/images/logos/three.png",
+    name: "Express",
+    imgPath: "/images/logos/ex.png",
   },
   {
-    name: "Project Manager",
-    imgPath: "/images/logos/git.svg",
+    name: "Linux Enthusiastic",
+    imgPath: "/images/logos/linux.jpg",
   },
 ];
 
@@ -141,36 +137,7 @@ const techStackIcons = [
     scale: 0.05,
     rotation: [0, -Math.PI / 4, 0],
   },
-  {
-    name: "HTML",
-    modelPath: "/models/html1.glb",
-    scale: 5,
-    rotation: [0, 5, 0],
-  },
-  {
-    name: "CSS",
-    modelPath: "/models/css1.glb",
-    scale: 5,
-    rotation: [0, 5, 0],
-  },
-  {
-    name: "MongoDB",
-    modelPath: "/models/MongoDB.glb",
-    scale: 5,
-    rotation: [0, 5, 0],
-  },
-  {
-    name: "Express",
-    modelPath: "/models/express1.glb",
-    scale: 5,
-    rotation: [0, 5, 0],
-  },
-  {
-    name: "Linux Enthusiastic",
-    modelPath: "/models/linux1.glb",
-    scale: 5,
-    rotation: [0, 5, 0],
-  },
+  
 ];
 
 const expCards = [
@@ -227,49 +194,24 @@ const expLogos = [
   },
 ];
 
-const testimonials = [
+const certifications = [
   {
-    name: "Esther Howard",
-    mentions: "@estherhoward",
-    review:
-      "I can’t say enough good things about Adrian. He was able to take our complex project requirements and turn them into a seamless, functional website. His problem-solving abilities are outstanding.",
-    imgPath: "/images/client1.png",
+    name: "Infosys Internship",
+    mentions: "Java Developer",
+    imgPath: "/images/certificate/infosys.jpeg",
   },
   {
-    name: "Wade Warren",
-    mentions: "@wadewarren",
-    review:
-      "Working with Adrian was a fantastic experience. He transformed our outdated website into a modern, user-friendly platform. His attention to detail and commitment to quality are unmatched. Highly recommend him for any web dev projects.",
-    imgPath: "/images/client3.png",
+    name: "Infosys course completion",
+    mentions: "Data Structures and Algorithmn",
+    imgPath: "/images/certificate/dsa.png",
   },
   {
-    name: "Guy Hawkins",
-    mentions: "@guyhawkins",
-    review:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    imgPath: "/images/client2.png",
+    name: "Startup Internship",
+    mentions: "Full stack Development",
+    imgPath: "/images/certificate/in.png",
   },
-  {
-    name: "Marvin McKinney",
-    mentions: "@marvinmckinney",
-    review:
-      "Adrian was a pleasure to work with. He turned our outdated website into a fresh, intuitive platform that’s both modern and easy to navigate. Fantastic work overall.",
-    imgPath: "/images/client5.png",
-  },
-  {
-    name: "Floyd Miles",
-    mentions: "@floydmiles",
-    review:
-      "Adrian’s expertise in web development is truly impressive. He delivered a robust and scalable solution for our e-commerce site, and our online sales have significantly increased since the launch. He’s a true professional!",
-    imgPath: "/images/client4.png",
-  },
-  {
-    name: "Albert Flores",
-    mentions: "@albertflores",
-    review:
-      "Adrian was a pleasure to work with. He understood our requirements perfectly and delivered a website that exceeded our expectations. His skills in both frontend and backend dev are top-notch.",
-    imgPath: "/images/client6.png",
-  },
+  
+  
 ];
 
 const socialImgs = [
@@ -301,7 +243,7 @@ export {
   logoIconsList,
   expCards,
   expLogos,
-  testimonials,
+  certifications,
   socialImgs,
   techStackIcons,
   techStackImgs,
