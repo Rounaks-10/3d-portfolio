@@ -74,7 +74,7 @@ const abilities = [
   {
     imgPath: "/images/leetcode.png",
     title: "Profile on LeetCode",
-    desc: "Solved quality 160+ problems over different topics binary search,sorting algorithm ,linked list,stack,queue,vector,string,greedy,trees,dynamic programming,and many more.",
+    desc: "Solved quality 460+ problems over different topics binary search,sorting algorithm ,linked list,stack,queue,vector,string,greedy,trees,dynamic programming,and many more.",
   },
   {
     imgPath: "/images/time.png",
