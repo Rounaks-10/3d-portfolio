@@ -146,7 +146,7 @@ const expCards = [
     
     logoPath: "/images/S_Logo.png",
     title: "S.T Xavier's High School",
-    date: "May 2021 - Passout(Completed)",
+    date: "2010-2021 Passout(Completed)",
     responsibilities: [
       "Learned different languages english,hindi,marathi.",
       "Gained values and qualities from teachers and friends eg. Honesty,Humble,Never to give up attitude,Discipline,Leadership,Sportmanship etc.",
@@ -158,7 +158,7 @@ const expCards = [
     
     logoPath: "/images/C1_Logo.png",
     title: "Vivekanand College, Kolhapur",
-    date: "May 2023 - Passout(Completed)",
+    date: "2021-2023 Passout(Completed)",
     responsibilities: [
       "First time was introduced to Computer Science field and found interesting.",
       "I was in Science stream main Subjects were physics,chemistry,mathematics.Favourite subject was mathematics was first in college to score 99/100 in the subject.",
@@ -170,7 +170,7 @@ const expCards = [
     
     logoPath: "/images/C_Logo.png",
     title: "Walchand College of Engineering,Sangli",
-    date: "May-2027 Present",
+    date: "2023-2027 Present",
     responsibilities: [
       "Learning in depth concepts in computer science field, understanding and implementing to have impactful solutions.",
       "Course work learned are computer networks,data structures,operating system, database management systems,compiler design,computer algorithm.",
