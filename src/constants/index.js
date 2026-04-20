@@ -201,6 +201,11 @@ const certifications = [
     imgPath: "/images/certificate/infosys.jpeg",
   },
   {
+    name: "HackerRank Certification",
+    mentions: "Problem SOlving",
+    imgPath: "/images/certificate/hackerrank.png",
+  },
+  {
     name: "Infosys course completion",
     mentions: "Data Structures and Algorithmn",
     imgPath: "/images/certificate/dsa.png",
