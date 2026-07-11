@@ -39,15 +39,15 @@ const ShowcaseSection = () => {
           <div className="showcaselayout">
             <div className="first-project-wrapper">
                 <div className="image-wrapper" ref={project1Ref}>
-                    <img src="/images/ExpenseTrack.png" alt="project1" />
+                    <img src="/images/ac_img1.jpg" alt="project1" className="w-full h-full object-contain" />
                 </div>
                 <div className="text-content">
-                    <h2>SmartExpense – AI-Powered Expense Tracker</h2>
-                    <p className='text-white-50 md:text-xl'>SmartExpense is a full-stack, AI-enhanced expense tracking web application built with Next.js, React, Supabase, and Clerk. Designed with modern UI using Tailwind CSS and Shadcn UI, it enables users to manage their finances effortlessly through intelligent features:<br/>Receipt Scanning Transaction Management Interactive Dashboard Budgeting Reports Authentication & Security Backend & Database</p>
+                    <h2>Air Conditioning E-commerce Website</h2>
+                    <p className='text-white-50 md:text-xl'>A full-stack MERN-based HVAC management and e-commerce platform with role-based access,RAG Implementation(LLM), AC recommendations, secure payments, order tracking, technician management, installation scheduling, inventory management, and RESTful APIs.</p>
                 </div>
                  <div className="flex flex-wrap gap-4">
             <a
-              href="https://expense-tracker-five-sooty.vercel.app/"
+              href="https://shraddha-engineering15.onrender.com/"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-blue-600 hover:bg-blue-700 text-white px-5 py-2 rounded-lg transition-colors duration-200"
@@ -56,7 +56,7 @@ const ShowcaseSection = () => {
             </a>
 
             <a
-              href="https://github.com/Rounaks-10/Expense-tracker"
+              href="https://github.com/Rounaks-10/Air-Conditioning"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-gray-800 hover:bg-gray-900 text-white px-5 py-2 rounded-lg transition-colors duration-200 flex items-center gap-2"
@@ -88,10 +88,10 @@ const ShowcaseSection = () => {
 
                 <div className="project" ref={project3Ref}>
                     <div className="image-wrapper bg-[#ffefdb]">
-                        <img src="/images/AuthSys.png" alt="project3" />
+                        <img src="/images/ExpenseTrack.png" alt="project3" />
                     </div>
-                    <h2>SecureAuth – MERN Stack Authentication System</h2>
-                    <p className='text-white-50 md:text-xl'>Built a secure authentication system using the MERN stack with features like user registration, login, logout, OTP verification, and PIN-based access. After OTP verification, users set a PIN for quick future logins. Ensures multi-layered security with JWT, hashed passwords, and secure API routes.</p>
+                    <h2>SmartExpense – AI-Powered Expense Tracker</h2>
+                    <p className='text-white-50 md:text-xl'>SmartExpense is a full-stack, AI-enhanced expense tracking web application built with Next.js, React, Supabase, and Clerk. Designed with modern UI using Tailwind CSS and Shadcn UI, it enables users to manage their finances effortlessly through intelligent features:<br/>Receipt Scanning Transaction Management Interactive Dashboard Budgeting Reports Authentication & Security Backend & Database</p>
                     <div className="flex flex-wrap gap-4">
             <a
               href="https://expense-tracker-five-sooty.vercel.app/"
@@ -103,7 +103,7 @@ const ShowcaseSection = () => {
             </a>
 
             <a
-              href="https://github.com/yourusername/SmartExpense"
+              href="https://github.com/Rounaks-10/Expense-tracker"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-gray-800 hover:bg-gray-900 text-white px-5 py-2 rounded-lg transition-colors duration-200 flex items-center gap-2"
