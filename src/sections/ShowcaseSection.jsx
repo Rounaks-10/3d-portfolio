@@ -75,7 +75,7 @@ const ShowcaseSection = () => {
                     <p className='text-white-50 md:text-xl'>Implemented Huffman encoding and decoding in C++ to compress text files by up to 50%. Uses frequency-based prefix codes with priority queues and binary trees to achieve efficient, lossless compression and decompression.</p>
                     <div className="flex flex-wrap gap-4">
             <a
-              href="https://github.com/Rounaks-10/Expense-tracker"
+              href="https://github.com/Rounaks-10/HalfZip"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-gray-800 hover:bg-gray-900 text-white px-5 py-2 rounded-lg transition-colors duration-200 flex items-center gap-2"
